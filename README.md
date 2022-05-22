@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHANMUGANANTHAN</h1>
 <h3 align="center">A Passionate Web Developer And Youtuber From India</h3>
-
+<img align="right" alt="Coding" width="400"
+ src="https://media.giphy.com/media/cl83qB3OpgHZToeA6h/giphy.gif">
 <p align="left"> <a href="https://twitter.com/iamtheshanmu" target="blank"><img src="https://img.shields.io/twitter/follow/iamtheshanmu?logo=twitter&style=for-the-badge" alt="iamtheshanmu" /></a> </p>
 
 - 🔭 I’m currently working on **Mobile Tutor Company**
