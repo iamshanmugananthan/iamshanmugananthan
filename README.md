@@ -8,11 +8,7 @@
 
 - 🌱 I’m currently learning **RHCSA,AWS**
 
-- 👨‍💻 You Can Visit My Website [iamshanmugananthan.com](iamshanmugananthan.com)
-
 - 💬 I,m intrested on **Ethical Hacking,System Administrator,Digital Marketing,UI,Penetration Testing**
-
-- 📫 How to reach me **shanmugananthan.a.k@gmail.com**
 
 - ⚡ Fun fact **I Like To Make Youtube Videos**
 
