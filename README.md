@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamtheshanmu" target="blank"><img src="https://img.shields.io/twitter/follow/iamtheshanmu?logo=twitter&style=for-the-badge" alt="iamtheshanmu" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Tutor Company**
+- 🔭 I’m currently working as **Web Developer**
 
 - 🌱 I’m currently learning **RHCSA,AWS**
 
-- 🏆I Can help you to grow your business By **Digital Marketting**
+- 👨‍💻 You Can Visit My Website [shanmugananthan.com](shanmugananthan.com)
 
-- 👨‍💻 You Can Visit My Website [iamshanmugananthan.com](iamshanmugananthan.com)
-
-- 💬 I,m intrested on **Ethical Hacking,System Administrator,Digital Marketing,UI,Penetration Testing**
+- 💬 I,m intrested on **Ethical Hacking,System Administrator,Digital Marketing,UI,Web Development**
 
 - ⚡ Fun fact **I Like To Make Youtube Videos**
 
