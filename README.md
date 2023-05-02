@@ -12,7 +12,7 @@
 - 👯 I have six months of freelance experience as an **IoT trainer**
 
 - 🤝 I have completed a three-month internship as a **web developer**
-- 
+
 - 💬 Ask me about **Linux**
 
 ## 🌐 Socials:
