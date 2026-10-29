@@ -94,7 +94,12 @@ ask_me_about: [AWS, Linux, Jenkins, Docker, Ansible, Cloudflare]
 ### 🗺️ Career Timeline
 
 <div align="center">
-<img src="timeline.svg" width="100%" alt="Career timeline" />
+
+| ![2019](https://img.shields.io/badge/2019-58a6ff?style=flat-square) | ![2022](https://img.shields.io/badge/2022-a371f7?style=flat-square) | ![Jun 2023 - Oct 2025](https://img.shields.io/badge/Jun_2023_--_Oct_2025-f7b93e?style=flat-square) | ![Oct 2025 - Feb 2027](https://img.shields.io/badge/Oct_2025_--_Feb_2027-3fb950?style=flat-square) |
+|:---:|:---:|:---:|:---:|
+| 🎓 **BCA** | 🎓 **MCA** | 🖥️ **System Administrator** | ☁️ **Cloud Engineer** |
+| Mannar Thirumalai Naicker College | Mepco Schlenk Engineering College | Trioangle Technologies | Kripya Solutions |
+
 </div>
 
 ---
@@ -148,40 +153,27 @@ ask_me_about: [AWS, Linux, Jenkins, Docker, Ansible, Cloudflare]
 ### 🔁 How I Ship Code
 
 <div align="center">
-<img src="pipeline.svg" width="100%" alt="Deployment pipeline" />
+
+![Git Push](https://img.shields.io/badge/Git_Push-F05032?style=flat-square&logo=git&logoColor=white) ➜
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ➜
+![Build & Test](https://img.shields.io/badge/Build_%26_Test-F7B93E?style=flat-square&logoColor=white) ➜
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ➜
+![Load Balancer](https://img.shields.io/badge/Load_Balancer-A371F7?style=flat-square&logoColor=white) ➜
+![AWS](https://img.shields.io/badge/AWS_Prod-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ➜
+![Monitoring](https://img.shields.io/badge/Grafana_%7C_Datadog-3FB950?style=flat-square&logo=grafana&logoColor=white)
+
 </div>
 
 ---
 
 ## 🌍 Open Source
 
-I believe in giving back. I share scripts, automation and tools with the community.
-
-<!-- Replace the repo names below with your real open source repositories -->
 <div align="center">
 
-<a href="https://github.com/iamshanmugananthan/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamshanmugananthan&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Open source project 1" />
-</a>
-<a href="https://github.com/iamshanmugananthan/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamshanmugananthan&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Open source project 2" />
-</a>
-<a href="https://github.com/iamshanmugananthan/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamshanmugananthan&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="Open source project 3" />
-</a>
-<a href="https://github.com/iamshanmugananthan/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamshanmugananthan&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="Open source project 4" />
-</a>
+[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/iamshanmugananthan?tab=repositories)
+[![Browse Repositories](https://img.shields.io/badge/Browse-My_Repositories-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamshanmugananthan?tab=repositories)
 
 </div>
-
-**What I publish as open source:**
-- 🐚 Shell scripts for server automation and provisioning
-- 🤖 Ansible playbooks for monitoring onboarding and agent updates
-- 🔧 Jenkins pipeline examples and CI/CD templates
-- 📚 Guides and notes on AWS, Linux and Docker
-
-> 💡 Contributions, issues and stars are always welcome. [Browse all my repositories →](https://github.com/iamshanmugananthan?tab=repositories)
 
 ---
 
@@ -189,32 +181,14 @@ I believe in giving back. I share scripts, automation and tools with the communi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamshanmugananthan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshanmugananthan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=iamshanmugananthan&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshanmugananthan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity graph" />
+[![Followers](https://img.shields.io/github/followers/iamshanmugananthan?style=for-the-badge&logo=github&label=Followers&color=24292e)](https://github.com/iamshanmugananthan?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiamshanmugananthan&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2ea44f)](https://github.com/iamshanmugananthan?tab=repositories)
+[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiamshanmugananthan&query=%24.following&label=Following&style=for-the-badge&logo=github&color=0e75b6)](https://github.com/iamshanmugananthan?tab=following)
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamshanmugananthan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://ghchart.rshah.org/00D4FF/iamshanmugananthan" width="95%" alt="Contribution graph" />
 
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<!-- Needs the snake.yml workflow (included separately) to generate this image -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshanmugananthan/iamshanmugananthan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamshanmugananthan/iamshanmugananthan/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/iamshanmugananthan/iamshanmugananthan/output/github-snake.svg" />
-</picture>
 </div>
 
 ---
@@ -243,12 +217,6 @@ I believe in giving back. I share scripts, automation and tools with the communi
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamshanmugananthan)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/iamshanmugananthan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmugananthan.a.k@gmail.com)
-
-<br/>
-
-### ✍️ Dev Quote of the Moment
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
 
 <br/>
 
