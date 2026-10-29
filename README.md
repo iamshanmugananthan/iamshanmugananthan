@@ -34,7 +34,7 @@ I keep production systems **fast, secure and always on**, from Jenkins pipelines
 ```yaml
 name: Shanmugananthan A K
 role: Cloud Engineer | DevOps Engineer
-current_company: Kripya Solutions
+company: Kripya Solutions (Oct 2025 – Feb 2027)
 location: Chennai, Tamil Nadu, India
 superpowers:
   - AWS cloud architecture
@@ -45,7 +45,7 @@ superpowers:
 ask_me_about: [AWS, Linux, Jenkins, Docker, Ansible, Cloudflare]
 ```
 
-- 🔭 Currently working as **Cloud Engineer at Kripya Solutions**
+- 🔭 **Cloud Engineer at Kripya Solutions** (Oct 2025 – Feb 2027)
 - ⚡ **Zero-downtime releases** for web and mobile apps (Google Play and App Store)
 - 🛡️ Security-focused: **WAF, DDoS protection, SSL/TLS, KMS, Secrets Manager**
 - 📈 Monitoring with **Grafana, Loki, Nagios and Datadog**
@@ -61,7 +61,7 @@ ask_me_about: [AWS, Linux, Jenkins, Docker, Ansible, Cloudflare]
 <td width="50%" valign="top">
 
 ### ☁️ Cloud Engineer
-**Kripya Solutions** · *Oct 2025 – Present*
+**Kripya Solutions** · *Oct 2025 – Feb 2027*
 
 - Deploy and manage **C8 applications** in high-availability production environments
 - Deploy **Docker** containers and configure **load balancers** for even traffic distribution
@@ -93,16 +93,9 @@ ask_me_about: [AWS, Linux, Jenkins, Docker, Ansible, Cloudflare]
 
 ### 🗺️ Career Timeline
 
-```mermaid
-timeline
-    title My Journey
-    2019 : BCA, Mannar Thirumalai Naicker College
-    2022 : MCA, Mepco Schlenk Engineering College
-    Jun 2023 : System Administrator at Trioangle Technologies
-           : AWS, Jenkins, Cloudflare, Grafana
-    Oct 2025 : Cloud Engineer at Kripya Solutions
-           : Docker, Ansible, Datadog, HA production
-```
+<div align="center">
+<img src="assets/timeline.svg" width="100%" alt="Career timeline" />
+</div>
 
 ---
 
@@ -154,16 +147,9 @@ timeline
 
 ### 🔁 How I Ship Code
 
-```mermaid
-flowchart LR
-    A[💻 Git Push] --> B[🔧 Jenkins Pipeline]
-    B --> C[🧪 Build and Test]
-    C --> D[🐳 Docker Image]
-    D --> E[⚖️ Load Balancer]
-    E --> F[☁️ AWS Production]
-    F --> G[📈 Grafana / Datadog]
-    G -. alerts .-> H[🚨 On-call and RCA]
-```
+<div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="Deployment pipeline" />
+</div>
 
 ---
 
