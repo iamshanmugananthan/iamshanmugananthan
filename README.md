@@ -94,7 +94,7 @@ ask_me_about: [AWS, Linux, Jenkins, Docker, Ansible, Cloudflare]
 ### 🗺️ Career Timeline
 
 <div align="center">
-<img src="assets/timeline.svg" width="100%" alt="Career timeline" />
+<img src="timeline.svg" width="100%" alt="Career timeline" />
 </div>
 
 ---
@@ -148,7 +148,7 @@ ask_me_about: [AWS, Linux, Jenkins, Docker, Ansible, Cloudflare]
 ### 🔁 How I Ship Code
 
 <div align="center">
-<img src="assets/pipeline.svg" width="100%" alt="Deployment pipeline" />
+<img src="pipeline.svg" width="100%" alt="Deployment pipeline" />
 </div>
 
 ---
